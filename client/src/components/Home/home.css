@@ -1,0 +1,12 @@
+.home{
+    margin: auto;
+
+}
+.home__container__top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+   
+}
